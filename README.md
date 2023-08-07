@@ -1,6 +1,7 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Receipt processor, after run the project you can access to this url to check documentation
+http://localhost:3000/api
 
 ## Running from docker
 First build image
