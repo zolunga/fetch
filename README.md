@@ -15,6 +15,7 @@ $ docker run -p 3000:3000 fetch
 
 
 ## Installation
+Just for running on localy, need to install nodejs 16.X.X first and after you cant execute the nexts commands
 
 ```bash
 $ npm install
